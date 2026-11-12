@@ -38,21 +38,8 @@ AutoReportBot/
 ## Installation
 
 Clone the repository:
-
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-```
-
-Navigate to the project directory:
-
-```bash
-cd AutoReportBot
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
+git clone https://github.com/MWashington22/python-automated-reporting-email-system.git
 ```
 
 ## Configuration

@@ -1,0 +1,8 @@
+sales.db
+report.txt
+error_log.txt
+__pycache__/
+.venv/
+.env
+*.pyc
+.env.*
